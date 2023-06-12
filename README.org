@@ -1,0 +1,10 @@
+* dlist
+
+A Common Lisp library that implements doubly-linked lists
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/krzysz00/dlist.git   |
+| commit  | 5b365ee  |
+| systems | dlist |
+|---------+-------------------------------------------|
+
